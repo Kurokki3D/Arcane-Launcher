@@ -8,9 +8,9 @@ fantacy.
 
 ## What I Learned
 
-This project thought me:
-How to use the manifest file to change the app compleatly.
-how to use styles to create a transparent window in flutter
-how to use Riverpod
-how to use ListWheelScrollView
+- This project thought me:
+- How to use the manifest file to change the app compleatly.
+- how to use styles to create a transparent window in flutter
+- how to use Riverpod
+- how to use ListWheelScrollView
 
