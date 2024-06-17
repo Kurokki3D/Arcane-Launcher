@@ -1,0 +1,9 @@
+import 'package:device_apps/device_apps.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+final homeappsProvider = FutureProvider<List<Application>>((ref) async {
+  return await DeviceApps.getInstalledApplications(
+      includeAppIcons: true,
+      onlyAppsWithLaunchIntent: true,
+      includeSystemApps: true);
+});

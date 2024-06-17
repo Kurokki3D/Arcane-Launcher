@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932794231885",
+    "project_id": "arcane-launcher",
+    "storage_bucket": "arcane-launcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932794231885:android:0d7a91da315fd3f7eb0004",
+        "android_client_info": {
+          "package_name": "com.example.arcane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-9hUGL5eV_3zK_2NvEW1FApUXBItL3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
