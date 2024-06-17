@@ -1,8 +1,8 @@
-# arcane
+# Arcane Launcher
 
-A new Flutter project.
+The final project of my time with the Technology Advancement Programme III.
 
-## Getting Started
+## more later
 
 This project is a starting point for a Flutter application.
 
