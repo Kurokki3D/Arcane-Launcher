@@ -1,16 +1,16 @@
 # Arcane Launcher
 
 The final project of my time with the Technology Advancement Programme III.
+This app is a home screan launcher it lists all your commonly usecapps on the main screan
+in both calm mode and arcade mode. the main diference between calm mode and arcade mode
+is that calm mode caters to minimalisim while arcade mode is more flashy and caters for
+fantacy.
 
-## more later
+## What I Learned
 
-This project is a starting point for a Flutter application.
+This project thought me:
+How to use the manifest file to change the app compleatly.
+how to use styles to create a transparent window in flutter
+how to use Riverpod
+how to use ListWheelScrollView
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
